@@ -5,4 +5,4 @@ Bu repo [PATİKA](https://app.patika.dev/) daki CSS dersleri kapsamında Bootsta
 
 [GitHub Profilim](https://github.com/Sibgatullahsanli)
 
-![Çanta Dükkanım](img/%C3%A7anta%20d%C3%BCkkan%C4%B1.JPG))
+![Çanta Dükkanım](img/%C3%A7anta%20d%C3%BCkkan%C4%B1.JPG)
